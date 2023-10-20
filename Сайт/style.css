@@ -1,3 +1,11 @@
-td{
-	font-size: 18;
+ td {
+	 font-size: 18px;
+ } 
+ table {
+	 text-align: center;
+ } 
+
+ td v { 
+     writing-mode: vertical-lr; 
+     text-orientation: upright; 
 }
